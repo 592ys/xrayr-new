@@ -102,3 +102,4 @@ fi
 rm -rf "$tmpdir"
 
 green "✅ 已成功使用 XrayRbackup $tag 覆盖官方 XrayR"
+green "📌 原配置 / 命令 / 服务保持完全不变"
