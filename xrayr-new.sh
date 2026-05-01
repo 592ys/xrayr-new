@@ -13,7 +13,7 @@ plain='\033[0m'
 
 # 目标仓库
 GITHUB_OWNER="Mtoly"
-GITHUB_REPO="XrayRbackup"
+GITHUB_REPO="XrayRP"
 # 核心安装位置 (官方脚本默认位置)
 BIN_PATH="/usr/local/XrayR/XrayR"
 
